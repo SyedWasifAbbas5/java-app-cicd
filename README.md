@@ -1,1 +1,1 @@
-# This repo is for java app deployment on kubernetes cluster using Jenkins
+# JAVA APP CICD
